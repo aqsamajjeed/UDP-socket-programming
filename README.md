@@ -78,7 +78,7 @@ Each packet has a custom header followed by the data payload.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open two terminal windows:
    - One for the server
