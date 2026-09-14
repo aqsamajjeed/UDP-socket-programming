@@ -63,7 +63,7 @@ Each packet has a custom header followed by the data payload.
 
 ---
 
-## ✅ Key Features Summary
+##  Key Features Summary
 
 | Feature                   | Implementation                                                |
 |---------------------------|---------------------------------------------------------------|
