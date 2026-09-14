@@ -35,7 +35,7 @@ Each packet has a custom header followed by the data payload.
 
 ---
 
-## 🧠 Client Logic (`client.py`)
+##  Client Logic (`client.py`)
 
 ### Key Concepts:
 - **Sliding Window**: Uses a `window_size` to control flow
@@ -50,7 +50,7 @@ Each packet has a custom header followed by the data payload.
 
 ---
 
-## 📡 Server Logic (`server.py`)
+##  Server Logic (`server.py`)
 
 ### Key Concepts:
 - **Expected Sequence**: Server waits for specific sequence numbers
