@@ -4,7 +4,7 @@ This project simulates a **reliable data transfer mechanism over UDP** using the
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File         | Description                                                             |
 |--------------|-------------------------------------------------------------------------|
@@ -14,7 +14,7 @@ This project simulates a **reliable data transfer mechanism over UDP** using the
 
 ---
 
-## 🧱 Packet Design
+##  Packet Design
 
 Each packet has a custom header followed by the data payload.
 
